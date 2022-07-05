@@ -26,7 +26,7 @@ body{
 }
 .play_button{
     font-size: 23px;
-    width: 7%;
+    width: 15%;
 }
 canvas{
     border: solid white 5px;
